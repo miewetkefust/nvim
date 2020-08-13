@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/mie/OneDrive/Dokumenter/ITU/B-GRPRO/Projekt/StreamIT'
+let g:netrw_dirhist_5='/home/mie/OneDrive/Dokumenter/ITU/B-GRPRO/Projekt/StreamIT/src/controller'
+let g:netrw_dirhist_4='/home/mie/OneDrive/Dokumenter/ITU/B-GRPRO/Projekt/StreamIT/src'
+let g:netrw_dirhist_3='/home/mie/OneDrive/Dokumenter/ITU/B-GRPRO/Projekt/StreamIT'
+let g:netrw_dirhist_2='/home/mie/OneDrive/Dokumenter/ITU/B-GRPRO/Projekt/StreamIT/test'
+let g:netrw_dirhist_1='/home/mie/OneDrive/Dokumenter/ITU/B-GRPRO/Projekt/StreamIT'
