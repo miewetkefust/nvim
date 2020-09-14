@@ -2,7 +2,9 @@ set relativenumber
 set cursorline
 syntax on
 nnoremap å $
+nnoremap $ ^
 nnoremap ½ ^
+autocmd FileType * setlocal formatoptions-=cro
 set nocompatible
 filetype off
 call plug#begin('~/.vim-plug/plugged')
